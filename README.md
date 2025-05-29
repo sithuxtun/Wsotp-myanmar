@@ -1,2 +1,2 @@
-# Wsotp-myanmar
-Wsotp
+# Network Myanmar
+# STTun
